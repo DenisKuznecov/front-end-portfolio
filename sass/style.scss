@@ -1,0 +1,10 @@
+.class {
+	color: #fff;
+	.class-2 {
+		background-color: #000;
+		&:hover {
+			color: #fff;
+			transition: all 2s;
+		}
+	}
+}

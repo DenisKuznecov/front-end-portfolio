@@ -1,0 +1,25 @@
+{
+  "name": "front-end-portfolio",
+  "version": "1.0.0",
+  "description": "This is my site portfolio. Technologies: Html5, Sass, ES6, Jquery3.0, Gulp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenisKuznecov/front-end-portfolio.git"
+  },
+  "author": "Denis Kuznecov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DenisKuznecov/front-end-portfolio/issues"
+  },
+  "homepage": "https://github.com/DenisKuznecov/front-end-portfolio#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.9.1"
+  }
+}
