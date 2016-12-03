@@ -1,0 +1,23 @@
+.class {
+	color: #fff;
+	.class-2 {
+		background-color: #000;
+		&:hover {
+			color: #fff;
+			transition: all 2s;
+		}
+	}
+}
+.asdas {
+	border-color: #sfsfsf;
+	&:hover {
+		color: #fff;
+	}
+}
+#dfgsg {
+	font-size: 15px;
+}
+
+.sdfsdf {
+	font-weight: bold;
+}
